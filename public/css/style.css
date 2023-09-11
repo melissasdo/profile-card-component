@@ -1,0 +1,8 @@
+/* tags */
+body {
+  background-image: url("/images/bg-pattern-bottom.svg"), url("/images/bg-pattern-bottom.svg");
+  background-color: hsl(185, 75%, 39%);
+  background-size: cover;
+}
+
+/* classes */
