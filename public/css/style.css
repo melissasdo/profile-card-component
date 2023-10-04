@@ -5,4 +5,22 @@ body {
   background-size: cover;
 }
 
+table {
+margin-top: 3.5rem;
+}
+
 /* classes */
+
+.card {
+  max-width: 23rem;
+}
+
+.card-title {
+  font-size: 18px;
+  
+}
+
+.pfp {
+  margin-top: 150px;
+  width: 100px;
+}
